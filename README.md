@@ -1,3 +1,6 @@
-# ESTUDO WEB SCREP
+# ESTUDO WEB SCRAPING
 
-Programa basico que traz o resultado da loteria caixa usando Puppeteer da google.
+
+Programa basico que traz o resultado da loteria e a data do proximo sorteio usando a biblioteca Puppeteer
+
+
